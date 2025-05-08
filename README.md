@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Indexa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.3.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Indexa_contatos
+Agenda de contatos com Angular
+>>>>>>> 3abba193a215712b920ac5533a7ccc5b8b85dfdd
